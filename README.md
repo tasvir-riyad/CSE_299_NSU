@@ -1,7 +1,7 @@
 **Classroom Booking System (CBS)**
 A full-stack web application developed for the CSE 299: Junior Design project at North South University. This system is engineered to resolve scheduling conflicts and automate room allocation for university faculty. It utilizes strict role-based access control to ensure secure, conflict-free room bookings, prioritizing faculty needs and administrative efficiency.
 
-🛠️** Tech Stack:**
+**🛠️Tech Stack:**
 Frontend: React
 
 Backend: Node.js
