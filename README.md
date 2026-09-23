@@ -12,7 +12,7 @@ Database: PostgreSQL
 📂 **Repository Contents:**
 This repository contain comprehensive documentation, demonstration materials, and the application codebase:
 
-Source Code: Contains the complete React and Node.js codebase (CSE299_Group_2 (1).zip) under Final Project Demo
+Source Code: Contains the complete React and Node.js codebase **_(CSE299_Group_2 (1).zip)_** under _**Final Project Demo**_
 
 Documentation: Includes the initial project proposal, Software Requirements Specification (SRS) documentation, database schemas, and weekly project reports.
 
