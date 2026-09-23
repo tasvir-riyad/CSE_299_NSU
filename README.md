@@ -14,7 +14,7 @@ This repository contain comprehensive documentation, demonstration materials, an
 
 Source Code: Contains the complete React and Node.js codebase **_(CSE299_Group_2 (1).zip)_** under _**Final Project Demo**_
 
-Documentation: Includes the initial project proposal, Software Requirements Specification (SRS) documentation, database schemas, and weekly project reports.
+Documentation: Includes the initial project proposal, Software Requirements Specification (SRS) documentation, and weekly project reports.
 
 Presentations & Demos: Features the final slide presentation, a video detailing the project's workflow, and the final demonstration video.
 
